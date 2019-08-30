@@ -83,6 +83,51 @@ experiences:
           Helping customers migrate and run their projects/apps on our
           infrastructure.
 
+    - role: Sr. DevOps/Systems Engineer
+      time: 2017 - Present
+      company: Arpinet LLC
+      details: |
+        About company:
+          HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
+          Enterprise Solution Provider based in Yerevan, Armenia. The company
+          service portfolio includes Infrastructure as a Service, Backup as a
+          Service, Disaster Recovery as a Service, Platform as a Service and
+          Software as a Service offerings together with general IT consulting
+          and managed services.
+        My responsibilities:
+          Managed and supported network, hardware and software operations,
+          including server migration, connections between data centers,
+          manage and migration of VMware virtualization servers, plan, install
+          and manage Layer 3 network, distributed file servers and storage
+          clusters, manage backup servers with Nakivo and Veeam software.
+          Created and implemented disaster recovery plans and procedures for
+          data centers, including hot sites for mission critical applications.
+          Helping customers migrate and run their projects/apps on our
+          infrastructure.
+
+    - role: Systems Engineer
+      time: 2013 - 2017
+      company: Arpinet LLC
+      details: |
+        About company:
+          HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
+          Enterprise Solution Provider based in Yerevan, Armenia. The company
+          service portfolio includes Infrastructure as a Service, Backup as a
+          Service, Disaster Recovery as a Service, Platform as a Service and
+          Software as a Service offerings together with general IT consulting
+          and managed services.
+        My responsibilities:
+          Managed and supported network, hardware and software operations,
+          including server migration, connections between data centers,
+          manage and migration of VMware virtualization servers, plan, install
+          and manage Layer 3 network, distributed file servers and storage
+          clusters, manage backup servers with Nakivo and Veeam software.
+          Created and implemented disaster recovery plans and procedures for
+          data centers, including hot sites for mission critical applications.
+          Helping customers migrate and run their projects/apps on our
+          infrastructure.
+
+
 # projects:
 #     title: Projects
 #     intro: >
@@ -155,7 +200,7 @@ skills:
 
       - name: Kubernetes
         level: 60%
-        
+
       - name: GitLab-CI
         level: 50%
 
