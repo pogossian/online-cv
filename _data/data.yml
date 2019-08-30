@@ -54,8 +54,8 @@ career-profile:
       vendors and industry developing organizations in Armenia and abroad.
 
 education:
-    - degree: Specialist Degree
-      university: RUSSIAN - ARMENIAN UNIVERSITY (Yerevan, Armenia)
+    - degree: Specialist Degree in Advertising
+      university: Russian - Armenian University (Yerevan, Armenia)
       time: 2009 - 2014
       details: |
         Institute of media and advertising
@@ -87,45 +87,24 @@ experiences:
       time: 2017 - Present
       company: Arpinet LLC
       details: |
-        About company:
-          HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
-          Enterprise Solution Provider based in Yerevan, Armenia. The company
-          service portfolio includes Infrastructure as a Service, Backup as a
-          Service, Disaster Recovery as a Service, Platform as a Service and
-          Software as a Service offerings together with general IT consulting
-          and managed services.
-        My responsibilities:
-          Managed and supported network, hardware and software operations,
-          including server migration, connections between data centers,
-          manage and migration of VMware virtualization servers, plan, install
-          and manage Layer 3 network, distributed file servers and storage
-          clusters, manage backup servers with Nakivo and Veeam software.
-          Created and implemented disaster recovery plans and procedures for
-          data centers, including hot sites for mission critical applications.
-          Helping customers migrate and run their projects/apps on our
-          infrastructure.
+          - Maintain security, backup, and redundancy strategies
 
-    - role: Systems Engineer
+    - role: Systems/Network Engineer
       time: 2013 - 2017
       company: Arpinet LLC
       details: |
-        About company:
-          HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
-          Enterprise Solution Provider based in Yerevan, Armenia. The company
-          service portfolio includes Infrastructure as a Service, Backup as a
-          Service, Disaster Recovery as a Service, Platform as a Service and
-          Software as a Service offerings together with general IT consulting
-          and managed services.
-        My responsibilities:
-          Managed and supported network, hardware and software operations,
-          including server migration, connections between data centers,
-          manage and migration of VMware virtualization servers, plan, install
-          and manage Layer 3 network, distributed file servers and storage
-          clusters, manage backup servers with Nakivo and Veeam software.
-          Created and implemented disaster recovery plans and procedures for
-          data centers, including hot sites for mission critical applications.
-          Helping customers migrate and run their projects/apps on our
-          infrastructure.
+          - Design, implementation and support of ISP network.
+          - Deployment of whole range of services required for ISP (DNS, TACACS,
+          Proxy, Balancer, Database, Web Server, Mail Server, ERP, etc.).
+          - Troubleshooting of complex multi vendor infrastructure.
+          - Setup a new billing system and migrate all subscribers on it.
+          - Deployment of servers and network backup, monitoring and management
+          systems.
+          - Planning and rollout of servers and network upgrades and migrations.
+          - Implementation of network analytics and automation scripts.
+
+
+
 
 
 # projects:
