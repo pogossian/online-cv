@@ -87,12 +87,14 @@ experiences:
       time: 2017 - Present
       company: Arpinet LLC
       details: |
+        Responsibilities:
           - Maintain security, backup, and redundancy strategies
 
     - role: Systems/Network Engineer
       time: 2013 - 2017
       company: Arpinet LLC
       details: |
+        Responsibilities:
           - Design, implementation and support of ISP network.
           - Deployment of whole range of services required for ISP (DNS, TACACS,
           Proxy, Balancer, Database, Web Server, Mail Server, ERP, etc.).
