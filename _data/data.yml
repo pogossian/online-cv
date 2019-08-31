@@ -94,8 +94,9 @@ experiences:
         As a DevOps Engineer I started to automate all the processes that were
         repeated more than 2 times in month and migrating services from
         bare metal/VMs to containers.
-          - Automating complex systems like SSL Certificates/Firewall
-          Rules/Access Rules/VPN using Python/Bash scripting.
+          - Automating infrastructure operations like installing services, SSL
+          Certificates, Firewall Rules, Access Rules, VPNs using Python/Bash
+          scripting.
           - Automating new customers registration and configuration workflow
           using Python scripting.
           - Automating report and bill delivery workflow for B2B customers use
