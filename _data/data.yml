@@ -47,13 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am involved in IT industry from 2013, started working at Arpinet LLC,
-      one of the biggest providers of internet, IPTV and digital content in
-      Armenia, as Systems Engineer. I have deep Linux, Networking and
-      Telecommunications protocols knowledge. I have designed and built CI/CD
-      roadmap and implementing to the project for large scale redundancy
-      clusters. I have also put in pace server infrastructure migration,
-      monitoring, metrics and securing for high available systems.
+      I am involved in IT industry from 2013, started as System/Network Engineer
+      in Internet service provider. Since than I do Linux Operations. I have
+      deep Linux, Networking and Telecommunications protocols knowledge. I have
+      designed and built CI/CD roadmap and implementing to the project for large
+      scale redundancy clusters. I have also put in pace server infrastructure
+      migration, monitoring, metrics and securing for high available systems.
 
 
 education:
@@ -74,6 +73,7 @@ experiences:
         Service, Disaster Recovery as a Service, Platform as a Service and
         Software as a Service offerings together with general IT consulting
         and managed services.
+        
         Responsibilities:
           - Managed and supported network, hardware and software operations.
           - Managed server migration, connections between data centers.
@@ -115,6 +115,7 @@ experiences:
         a new billing system and migrated all subscribers on it, deploy whole
         range of services required for ISP (DNS, TACACS, Proxy, Balancer,
         Database, Web Server, Mail Server, ERP, etc.).
+
         Responsibilities:
           - Design, implementation and support of ISP network.
           - Troubleshooting of complex multi vendor infrastructure.
