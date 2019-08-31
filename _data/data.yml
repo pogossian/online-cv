@@ -47,11 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am involved in IT industry from 2013, started working
-      at Arpinet LLC, one of the regional providers of internet, IPTV and
-      digital content in Armenia, as Systems Engineer. To get deeper knowledge
-      and skills I have completed a number of trainings and certifications from
-      vendors and industry developing organizations in Armenia and abroad.
+      I am involved in IT industry from 2013, started working at Arpinet LLC,
+      one of the biggest providers of internet, IPTV and digital content in
+      Armenia, as Systems Engineer. I have deep Linux, Networking and
+      Telecommunications protocols knowledge. I have designed and built CI/CD
+      roadmap and implementing to the project for large scale redundant clusters.
+      I have also put in pace server infrastructure migration, monitoring,
+      metrics and securing for high available systems.
+
 
 education:
     - degree: Specialist Degree in Advertising
@@ -66,40 +69,56 @@ experiences:
       company: HS Cloud LLC
       details: |
         About company:
-          HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
-          Enterprise Solution Provider based in Yerevan, Armenia. The company
-          service portfolio includes Infrastructure as a Service, Backup as a
-          Service, Disaster Recovery as a Service, Platform as a Service and
-          Software as a Service offerings together with general IT consulting
-          and managed services.
-        My responsibilities:
-          Managed and supported network, hardware and software operations,
-          including server migration, connections between data centers,
-          manage and migration of VMware virtualization servers, plan, install
-          and manage Layer 3 network, distributed file servers and storage
-          clusters, manage backup servers with Nakivo and Veeam software.
-          Created and implemented disaster recovery plans and procedures for
+        HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
+        Enterprise Solution Provider based in Yerevan, Armenia. The company
+        service portfolio includes Infrastructure as a Service, Backup as a
+        Service, Disaster Recovery as a Service, Platform as a Service and
+        Software as a Service offerings together with general IT consulting
+        and managed services.
+        Responsibilities:
+          - Managed and supported network, hardware and software operations.
+          - Managed server migration, connections between data centers.
+          - Plan, install and manage Layer 3 network, distributed file servers
+          and storage clusters.
+          - Manage backup servers with Nakivo and Veeam software.
+          - Deployment of intergration with public clouds (AWS, GCP) for BaaS.
+          - Created and implemented disaster recovery plans and procedures for
           data centers, including hot sites for mission critical applications.
-          Helping customers migrate and run their projects/apps on our
+          - Creating Ansible playbooks for automating what is possible.
+          - Helping customers migrate and run their projects/apps on our
           infrastructure.
 
     - role: Sr. DevOps/Systems Engineer
       time: 2017 - Present
       company: Arpinet LLC
       details: |
-        Responsibilities:
-          - Maintain security, backup, and redundancy strategies
+        As a DevOps Engineer I started to automate all the processes that were
+        repeated more than 2 times in month and migrating services from
+        bare metal/VMs to containers.
+          - Automating complex systems like SSL Certificates/Firewall
+          Rules/Access Rules/VPN using Python/Bash scripting.
+          - Automating new customers registration and configuration workflow
+          using Python scripting.
+          - Automating report and bill delivery workflow for B2B customers use
+          Pay-As-You-Go model.
+          - Working closely with DEVs to improve and automate deployment processes.
+          - Deployment of infrastructure and dockerfiles for new projects.
+          - Maintain security, backup, and redundancy strategies.
+
 
     - role: Systems/Network Engineer
       time: 2013 - 2017
       company: Arpinet LLC
       details: |
+        When I first came to Arpinet it was a small start up, there were only a
+        few servers with in-box solutions for ISP. Within a few months, I set up
+        a new billing system and migrated all subscribers on it, deploy whole
+        range of services required for ISP (DNS, TACACS, Proxy, Balancer,
+        Database, Web Server, Mail Server, ERP, etc.).
         Responsibilities:
           - Design, implementation and support of ISP network.
-          - Deployment of whole range of services required for ISP (DNS, TACACS,
-          Proxy, Balancer, Database, Web Server, Mail Server, ERP, etc.).
           - Troubleshooting of complex multi vendor infrastructure.
-          - Setup a new billing system and migrate all subscribers on it.
+          - Installing and configuring operating systems and application software.
           - Deployment of servers and network backup, monitoring and management
           systems.
           - Planning and rollout of servers and network upgrades and migrations.
@@ -162,13 +181,22 @@ skills:
 
     toolset:
       - name: Linux
-        level: 100%
+        level: 98%
 
       - name: Nginx
-        level: 100%
+        level: 98%
+
+      - name: Iptables
+        level: 90%
 
       - name: Docker
         level: 80%
+
+      - name: MySQL
+        level: 75%
+
+      - name: VMware
+        level: 70%
 
       - name: AWS
         level: 70%
@@ -179,10 +207,16 @@ skills:
       - name: Ansible
         level: 70%
 
+      - name: Elasticsearch
+        level: 70%
+
       - name: Kubernetes
         level: 60%
 
       - name: GitLab-CI
+        level: 50%
+
+      - name: PostgreSQL
         level: 50%
 
 footer: >
