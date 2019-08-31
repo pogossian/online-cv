@@ -48,9 +48,9 @@ career-profile:
     title: Career Profile
     summary: |
       I am involved in IT industry from 2013, started as System/Network Engineer
-      in Internet service provider. Since than I do Linux Operations. I have
+      in Internet service provider. Since then I do Linux Operations. I have
       deep Linux, Networking and Telecommunications protocols knowledge. I have
-      designed and built CI/CD roadmap and implementing to the project for large
+      designed and built CI/CD roadmap and implemented to the project for large
       scale redundancy clusters. I have also put in pace server infrastructure
       migration, monitoring, metrics and securing for high available systems.
 
@@ -75,13 +75,13 @@ experiences:
         and managed services.
         
         Responsibilities:
-          - Managed and supported network, hardware and software operations.
-          - Managed server migration, connections between data centers.
-          - Plan, install and manage Layer 3 network, distributed file servers
+          - Managing and supporting network, hardware and software operations.
+          - Managing server migration, connections between data centers.
+          - Planning, installing and managing Layer 3 network, distributed file servers
           and storage clusters.
-          - Manage backup servers with Nakivo and Veeam software.
+          - Managing backup servers with Nakivo and Veeam software.
           - Deployment of intergration with public clouds (AWS, GCP) for BaaS.
-          - Created and implemented disaster recovery plans and procedures for
+          - Creating and implementing disaster recovery plans and procedures for
           data centers, including hot sites for mission critical applications.
           - Creating Ansible playbooks for automating what is possible.
           - Helping customers migrate and run their projects/apps on our
@@ -92,7 +92,7 @@ experiences:
       company: Arpinet LLC
       details: |
         As a DevOps Engineer I started to automate all the processes that were
-        repeated more than 2 times in month and migrating services from
+        repeated more than 2 times a month and migrate services from
         bare metal/VMs to containers.
           - Automating infrastructure operations like installing services, SSL
           Certificates, Firewall Rules, Access Rules, VPNs using Python/Bash
@@ -103,7 +103,7 @@ experiences:
           Pay-As-You-Go model.
           - Working closely with DEVs to improve and automate deployment processes.
           - Deployment of infrastructure and dockerfiles for new projects.
-          - Maintain security, backup, and redundancy strategies.
+          - Maintaining security, backup, and redundancy strategies.
 
 
     - role: Systems/Network Engineer
@@ -112,7 +112,7 @@ experiences:
       details: |
         When I first came to Arpinet it was a small start up, there were only a
         few servers with in-box solutions for ISP. Within a few months, I set up
-        a new billing system and migrated all subscribers on it, deploy whole
+        a new billing system and migrated all subscribers on it, deployed whole
         range of services required for ISP (DNS, TACACS, Proxy, Balancer,
         Database, Web Server, Mail Server, ERP, etc.).
 
