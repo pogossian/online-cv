@@ -212,10 +212,13 @@ skills:
         level: 70%
 
       - name: Kubernetes
-        level: 60%
+        level: 70%
 
       - name: GitLab-CI
-        level: 50%
+        level: 70%
+        
+      - name: CephFS
+        level: 60%
 
       - name: PostgreSQL
         level: 50%
