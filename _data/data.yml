@@ -195,6 +195,9 @@ skills:
 
       - name: MySQL
         level: 75%
+      
+      - name: Kubernetes
+        level: 75%
 
       - name: VMware
         level: 70%
@@ -209,9 +212,6 @@ skills:
         level: 70%
 
       - name: Elasticsearch
-        level: 70%
-
-      - name: Kubernetes
         level: 70%
 
       - name: GitLab-CI
