@@ -19,8 +19,8 @@ sidebar:
     github: pogossian
     gitlab:
     bitbucket:
-    twitter: '@Gor_Poghosyan'
-    stack-overflow: 10059501/pogossian # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -47,12 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am involved in IT industry from 2013, started as System/Network Engineer
-      in Internet service provider. Since then I do Linux Operations. I have
-      deep Linux, Networking and Telecommunications protocols knowledge. I have
-      designed and built CI/CD roadmap and implemented to the project for large
-      scale redundancy clusters. I have also put in pace server infrastructure
-      migration, monitoring, metrics and securing for high available systems.
+      I have been involved in the IT industry since 2013, started as 
+      System/Network Engineer in an Internet service provider. 
+      Now I do DevOps. I have deep Linux, Networking, and Software architecture 
+      knowledge. I have designed and built CI/CD roadmap and implemented the 
+      project for large-scale redundancy Kubernetes clusters. I have also put 
+      in place server infrastructure migration, monitoring, metrics, and 
+      securing for high availability systems.
 
 
 education:
@@ -63,8 +64,25 @@ education:
         Institute of media and advertising
 
 experiences:
+    - role: DevOps Architect
+      time: 2021 - Present
+      company: Netris.ai
+      details: |
+        Develop kubernetes-operator for managing netris cloud resources.
+        Creating CI/CDs pipelines for all microservices and autotests.
+        Writing helm charts.
+
+    - role: DevOps Engineer
+      time: 2020 - 2021
+      company: All.me / Kindda.app
+      details: |
+        Deploy and manage multiple multi-zone huge Kubernetes clusters,
+        dozens of AWS Services, work IaC only with terraform, ansible, bash,
+        python and go. Develop Helm Charts and CI/CD for all microservices.
+        Put in place monitoring and metrics (Prometheus, victoriametrics).
+
     - role: Senior Infrastructure Engineer
-      time: 2019 - Present
+      time: 2019 - 2020
       company: HS Cloud LLC
       details: |
         HS Cloud is a VMware Public, Private and Hybrid Cloud Services and
@@ -88,7 +106,7 @@ experiences:
           infrastructure.
 
     - role: Sr. DevOps/Systems Engineer
-      time: 2017 - Present
+      time: 2017 - 2020
       company: Arpinet LLC
       details: |
         As a DevOps Engineer I started to automate all the processes that were
@@ -129,33 +147,15 @@ experiences:
 
 
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+projects:
+    title: Open Source Projects
+    intro:
+
+    assignments:
+      - title: Netris-Operator
+        link: "https://github.com/netrisai/netris-operator"
+        tagline: "Netris-operator runs within your Kubernetes cluster. It utilizes CustomResourceDefinitions to configure netris cloud resources."
+
 #
 # publications:
 #     title: Publications
@@ -181,50 +181,69 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Kubernetes
+        level: 95%
+
+      - name: Helm Chart
+        level: 95%
+
       - name: Linux
-        level: 98%
-
-      - name: Nginx
-        level: 98%
-
-      - name: Iptables
         level: 90%
 
+      - name: Terraform
+        level: 90%
+
+      - name: Ansible
+        level: 90%
+
+      - name: AWS
+        level: 85%
+
       - name: Docker
+        level: 85%
+
+      - name: GitLab-CI
+        level: 85%
+
+      - name: GitHub Actions
+        level: 85%
+
+      - name: Python
+        level: 85%
+
+      - name: Bash
         level: 80%
-        
-      - name: Kubernetes
-        level: 75%
+
+      - name: Go
+        level: 65%
 
       - name: MySQL
         level: 75%
 
+      - name: KVM
+        level: 70%
+
       - name: VMware
         level: 70%
-        
-      - name: KVM
-        level: 68%
-
-      - name: AWS
-        level: 66%
-
-      - name: Python
-        level: 65%
-
-      - name: Ansible
-        level: 65%
 
       - name: Elasticsearch
-        level: 62%
-
-      - name: GitLab-CI
-        level: 62%
+        level: 60%
         
       - name: CephFS
         level: 60%
 
       - name: PostgreSQL
         level: 50%
+
+      - name: MongoDB
+        level: 50%
+
+      - name: Kafka
+        level: 50%
+
+      - name: ScyllaDB
+        level: 50%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
